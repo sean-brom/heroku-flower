@@ -1,1 +1,1 @@
-web: python -m flower --broker=$BROKER_URL --persistent=true --basic_auth=$FLOWER_BASIC_AUTH
+web: python -m flower --broker=$BROKER_URL --basic_auth=$FLOWER_BASIC_AUTH
